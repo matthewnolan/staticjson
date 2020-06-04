@@ -46,5 +46,113 @@
     "eventImgLg": "https://picsum.photos/seed/wonderful/800/600",
     "eventDescShort": "Sed ut perspiciatis unde omnis iste natus.",
     "eventDescLong": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium."
+  },
+  { 
+    "id": "awesome-wines",
+    "hostName": "Awesome Wine Co",
+    "hostLocation": "Napa Valley",
+    "hostWebsite": "http://www.bing.com",
+    "eventTitle": "A Virtual Wine Tasting",
+    "eventDate": "2020-04-01",
+    "eventImgSm": "https://picsum.photos/seed/awesome-wines/400/200",
+    "eventImgLg": "https://picsum.photos/seed/awesome-wines/800/600",
+    "eventDescShort": "Lorem Ipsum is simply dummy text.",
+    "eventDescLong": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium."
+  },
+  { 
+    "id": "grapes-of-wrath",
+    "hostName": "Grapes of Wrath",
+    "hostLocation": "Bay Area",
+    "hostWebsite": "http://www.bing.com",
+    "eventTitle": "Grapes of Wrath Tasting",
+    "eventDate": "2020-03-01",
+    "eventImgSm": "https://picsum.photos/seed/grapes-of-wrath/400/200",
+    "eventImgLg": "https://picsum.photos/seed/grapes-of-wrath/800/600",
+    "eventDescShort": "Sed ut perspiciatis unde omnis iste.",
+    "eventDescLong": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium."
+  },
+  { 
+    "id": "matts-vineyards",
+    "hostName": "Matts Vineyards",
+    "hostLocation": "Napa Valley",
+    "hostWebsite": "http://www.bing.com",
+    "eventTitle": "Try Matts Wine",
+    "eventDate": "2020-02-01",
+    "eventImgSm": "https://picsum.photos/seed/matt/400/200",
+    "eventImgLg": "https://picsum.photos/seed/matt/800/600",
+    "eventDescShort": "Lorem Ipsum is simply...",
+    "eventDescLong": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium."
+  },
+  { 
+    "id": "wonderful-wines",
+    "hostName": "Wonderful Wines",
+    "hostLocation": "St Helena",
+    "hostWebsite": "http://www.bing.com",
+    "eventTitle": "Wine and Zoom",
+    "eventDate": "2020-01-01",
+    "eventImgSm": "https://picsum.photos/seed/wonderful/400/200",
+    "eventImgLg": "https://picsum.photos/seed/wonderful/800/600",
+    "eventDescShort": "Sed ut perspiciatis unde omnis iste natus.",
+    "eventDescLong": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium."
+  },
+  { 
+    "id": "wonderful-wines",
+    "hostName": "Wonderful Wines",
+    "hostLocation": "St Helena",
+    "hostWebsite": "http://www.bing.com",
+    "eventTitle": "Wine and Zoom",
+    "eventDate": "2020-01-01",
+    "eventImgSm": "https://picsum.photos/seed/wonderful/400/200",
+    "eventImgLg": "https://picsum.photos/seed/wonderful/800/600",
+    "eventDescShort": "Sed ut perspiciatis unde omnis iste natus.",
+    "eventDescLong": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium."
+  },
+  { 
+    "id": "awesome-wines",
+    "hostName": "Awesome Wine Co",
+    "hostLocation": "Napa Valley",
+    "hostWebsite": "http://www.bing.com",
+    "eventTitle": "A Virtual Wine Tasting",
+    "eventDate": "2020-04-01",
+    "eventImgSm": "https://picsum.photos/seed/awesome-wines/400/200",
+    "eventImgLg": "https://picsum.photos/seed/awesome-wines/800/600",
+    "eventDescShort": "Lorem Ipsum is simply dummy text.",
+    "eventDescLong": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium."
+  },
+  { 
+    "id": "grapes-of-wrath",
+    "hostName": "Grapes of Wrath",
+    "hostLocation": "Bay Area",
+    "hostWebsite": "http://www.bing.com",
+    "eventTitle": "Grapes of Wrath Tasting",
+    "eventDate": "2020-03-01",
+    "eventImgSm": "https://picsum.photos/seed/grapes-of-wrath/400/200",
+    "eventImgLg": "https://picsum.photos/seed/grapes-of-wrath/800/600",
+    "eventDescShort": "Sed ut perspiciatis unde omnis iste.",
+    "eventDescLong": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium."
+  },
+  { 
+    "id": "matts-vineyards",
+    "hostName": "Matts Vineyards",
+    "hostLocation": "Napa Valley",
+    "hostWebsite": "http://www.bing.com",
+    "eventTitle": "Try Matts Wine",
+    "eventDate": "2020-02-01",
+    "eventImgSm": "https://picsum.photos/seed/matt/400/200",
+    "eventImgLg": "https://picsum.photos/seed/matt/800/600",
+    "eventDescShort": "Lorem Ipsum is simply...",
+    "eventDescLong": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium."
+  },
+  { 
+    "id": "wonderful-wines",
+    "hostName": "Wonderful Wines",
+    "hostLocation": "St Helena",
+    "hostWebsite": "http://www.bing.com",
+    "eventTitle": "Wine and Zoom",
+    "eventDate": "2020-01-01",
+    "eventImgSm": "https://picsum.photos/seed/wonderful/400/200",
+    "eventImgLg": "https://picsum.photos/seed/wonderful/800/600",
+    "eventDescShort": "Sed ut perspiciatis unde omnis iste natus.",
+    "eventDescLong": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium."
   }
 ]
